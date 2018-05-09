@@ -1,0 +1,10 @@
+7 3      
+  46 329 
+ 6   27  
+   391  5
+  5   8  
+2        
+  25   7 
+     95  
+      9 3
+anything after this would be ignored.
